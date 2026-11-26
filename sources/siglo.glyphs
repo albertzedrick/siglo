@@ -11,7 +11,7 @@ SO,
 /zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.zero.tf",
 "/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.zero.tf",
 Aann,
-"πt"
+"nnπnnt"
 );
 axes = (
 {
@@ -32948,17 +32948,17 @@ unicode = 956;
 glyphname = pi;
 kernLeft = pi;
 kernRight = pi;
-lastChange = "2026-11-26 15:03:06 +0000";
+lastChange = "2026-11-26 17:10:45 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (288,0);
+pos = (318,0);
 },
 {
 name = top;
-pos = (288,500);
+pos = (318,500);
 }
 );
 layerId = "ECC881E9-C0E0-445D-B540-E921D52F9B88";
@@ -32966,18 +32966,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(537,40,l),
-(469,40,ls),
-(431,40,o),
-(400,53,o),
-(400,119,cs),
-(400,483,l),
-(358,483,l),
-(358,115,ls),
-(358,28,o),
-(407,0,o),
-(469,0,cs),
-(537,0,l)
+(567,40,l),
+(499,40,ls),
+(461,40,o),
+(430,53,o),
+(430,119,cs),
+(430,483,l),
+(388,483,l),
+(388,115,ls),
+(388,28,o),
+(437,0,o),
+(499,0,cs),
+(567,0,l)
 );
 },
 {
@@ -32985,8 +32985,8 @@ closed = 1;
 nodes = (
 (30,500,l),
 (30,462,l),
-(523,462,l),
-(523,500,l)
+(553,462,l),
+(553,500,l)
 );
 },
 {
@@ -32999,7 +32999,7 @@ nodes = (
 );
 }
 );
-width = 575;
+width = 605;
 },
 {
 anchors = (

@@ -41,7 +41,7 @@ mdurl==0.1.2
 nanoemoji==0.16.0
 networkx==3.6.1
 ninja==1.13.2
-numpy==2.5.5
+numpy==2.4.2
 openstep_plist==0.5.2
 opentype-sanitizer==9.2.0
 orjson==3.13.0
