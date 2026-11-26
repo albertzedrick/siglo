@@ -1,8 +1,9 @@
 [Siglo: Neogrotesk tempered by calligraphic principles](https://www.albertzedrick.com/typefaces/siglo)
 ====
 ![Siglo](documentation/siglo-3x2_1.png)
-![Siglo](documentation/siglo-3x2_11.png)
+![Siglo](documentation/siglo-3x2_16.png)
 ![Siglo](documentation/siglo-3x2_10.png)
+![Siglo](documentation/siglo-3x2_21.png)
 ## About
 Siglo is a contemporary sans serif brought from the long line of neogrotesks built for the 21st century. Sterile forms of the genre tamed by calligraphic principles. While suble details are deliberately callibrated from going neither too warm nor too cold. The International Style through the lens of a Filipino. A nod to the urban sprawl.
 
