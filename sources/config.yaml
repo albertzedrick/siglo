@@ -53,7 +53,6 @@ flattenComponents: true
 # removeOutlineOverlaps: true
 # extraFontmakeArgs: ""
 # extraVariableFontmakeArgs: ""
-extraStaticFontmakeArgs: "--overlaps-backend pathops"
 # glyphData: GlyphData.xml
 
 # This control how STAT tables are generated. The STAT table is
