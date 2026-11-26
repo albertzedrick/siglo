@@ -22,11 +22,11 @@ jobs:
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
         with:
           persist-credentials: false
-      - name: Set up Python 3.11
+      - name: Set up Python 3.14
         uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         id: python
         with:
-          python-version: "3.11"
+          python-version: "3.14"
       - name: Setup fontspector
         uses: fonttools/setup-fontspector@d53404291dc78a5a41cf76ea48e1d13a731fb812 # main
         env:
